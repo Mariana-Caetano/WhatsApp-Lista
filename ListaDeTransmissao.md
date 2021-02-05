@@ -19,7 +19,8 @@ A seguir, você aprenderá a realizar as seguintes ações em ambos sistemas ope
 Sua lista de transmissão já está criada e ao enviar uma mensagem, apenas os contatos com o seu número salvo a receberá.
 
 > Depois de enviar a mensagem, o aplicativo não cria um grupo de conversa. Cada pessoa recebe sua mensagem individualmente e se for respondida, a resposta será entregue apenas para você.
-<br>
+
+
 ### Editando uma lista de transmissão 
 Nessa tela você pode editar o nome da lista de transmissão, adicionar mais pessoas e remover pessoas.
 
