@@ -4,7 +4,7 @@ Documentação sobre como usar a ferramenta lista de transmissão do [WhatsApp](
 
 ## Objetivo
 
-Orienta o usuário a realizar as seguintes ações na plataforma mobile - iOS e Android:
+Orientar o usuário a realizar as seguintes ações na plataforma mobile - iOS e Android:
 
 - Criar lista de transmissão
 - Editar lista de transmissão
