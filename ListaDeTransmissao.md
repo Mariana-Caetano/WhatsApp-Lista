@@ -20,7 +20,7 @@ Sua lista de transmissão já está criada e ao enviar uma mensagem, apenas os c
 
 > Depois de enviar a mensagem, o aplicativo não cria um grupo de conversa. Cada pessoa recebe sua mensagem individualmente e se for respondida, a resposta será entregue apenas para você.
 
-&nbsp;
+
 ### Editando uma lista de transmissão 
 Nessa tela você pode editar o nome da lista de transmissão, adicionar mais pessoas e remover pessoas.
 
@@ -30,7 +30,7 @@ Nessa tela você pode editar o nome da lista de transmissão, adicionar mais pes
 4. Toque em **Adicionar destinatário** ![icone 2](https://user-images.githubusercontent.com/67270558/106990011-2a531800-6752-11eb-85b5-4a81c47d7b1b.png) para adicionar pessoas.
 5. Para remover uma pessoa, toque em **Editar destinatário** > Clique no **"x"** próximo ao nome da pessoa > Toque no botão de confirmação ![ok button](https://user-images.githubusercontent.com/67270558/106987897-2c66a800-674d-11eb-83fe-fae3b5dad7d5.png)
 
-&nbsp;
+
 ### Apagando lista de transmissão 
 Para apagar uma lista de transmissão, você tem duas opções e abaixo você aprenderá como fazer.
 
@@ -48,7 +48,7 @@ Para apagar uma lista de transmissão, você tem duas opções e abaixo você ap
 
 > Você tem a opção de apagar ou não toda a mídia compartilhada com a lista de transmissão.
 
-&nbsp;
+
 ## iOS
 ### Criando uma lista de transmissão 
 1. Abra o WhatsApp.
@@ -65,7 +65,7 @@ Sua lista de transmissão já está criada e ao enviar uma mensagem, apenas os c
 
 > Depois de enviar a mensagem, o aplicativo não cria um grupo de conversa. Cada pessoa recebe sua mensagem individualmente e se for respondida , a resposta será entregue apenas para você.
 
-&nbsp;
+
 ### Editando uma lista de transmissão 
 Nessa tela você pode mudar o nome da lista, adicionar ou remover pessoas.
 
@@ -74,7 +74,7 @@ Nessa tela você pode mudar o nome da lista, adicionar ou remover pessoas.
 3. Toque sobre o **"i"** ![icone 5](https://user-images.githubusercontent.com/67270558/106990799-bf0a4580-6753-11eb-85fa-56b88eda77c9.png) à direita do nome da lista.
 4. Toque em **Editar lista**.
 
-&nbsp;
+
 ### Apagando lista de transmissão 
 
 1. Abra o WhatsApp.
@@ -82,7 +82,7 @@ Nessa tela você pode mudar o nome da lista, adicionar ou remover pessoas.
 3. Deslize para esquerda a lista que gostaria de apagar.
 4. Toque em Apagar.
 
-&nbsp;
+
 ## Web
 ### Acessando lista de transmissão 
 
@@ -96,7 +96,7 @@ Nessa tela você pode mudar o nome da lista, adicionar ou remover pessoas.
 
 Sua lista de transmissão já pode ser acessada pelo computador ou notebook.
 
-&nbsp;
+
 ### Apagando lista de transmissão 
 Para apagar uma lista de transmissão, você tem duas opções e abaixo você aprenderá como fazer.
 
